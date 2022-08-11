@@ -1,0 +1,42 @@
+h2{
+ color: rgb(89, 165, 233);
+}
+.title{
+    color:brown;
+}
+.paragraph{
+color: coral;
+}
+#titleid{
+    color: chocolate;
+}
+ul li{
+    list-style: none;
+}
+h3{
+    text-decoration: underline;
+    /* text-decoration: overline;
+    text-decoration: line-through; */
+text-transform: capitalize;
+text-transform: uppercase; 
+text-transform: lowercase;
+color:#ff999f
+}
+h1{
+    font-weight: 900;
+    font-size: 14px;
+}
+p{
+    font-weight: bold;  
+    background-color: aqua;
+    color:red;
+    line-height: 40px;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+}
+title .title1{
+color: red;
+}
+.title{
+    color: blue;
+}
